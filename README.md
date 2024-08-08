@@ -1,2 +1,3 @@
 # calculator_js
-![image](https://github.com/user-attachments/assets/17557661-0a8f-4a2f-8e54-61fb2154a6f5)
+![image](https://github.com/user-attachments/assets/c10c7790-ffc6-4013-b8a6-ee5eac24ae79)
+
